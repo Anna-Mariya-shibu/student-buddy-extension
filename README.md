@@ -4,7 +4,7 @@ A simple and cute Chrome extension that helps students stay productive!
 Features include:
 - ✅ To-do list
 - 💬 Motivational quotes
-- ⏰ Pomodoro timer (coming soon!)
+
 
 ## How to Use
 1. Download or clone this repository.
